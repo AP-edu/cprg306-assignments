@@ -6,6 +6,7 @@ export default function Page() {
     <main>
       <header>
         <h1>Shopping List</h1>
+        <Link href="/">Back To HomePage</Link>
       </header>
 
       <h1 className="button-hover:blue">Student Information</h1>

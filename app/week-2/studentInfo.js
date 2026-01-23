@@ -4,12 +4,11 @@ export default function StudentInfo() {
   return (
     <main>
       <div>
-        <h1>Student Name:</h1>
-        <h2>Alexander Pacunayen</h2>
+        <h2>Name: Alexander Pacunayen</h2>
       </div>
       <Link href="https://github.com/AP-edu/cprg306-assignments">
         {" "}
-        My GitHub Link
+        My GitHub Link: https://github.com/AP-edu/cprg306-assignments
       </Link>
     </main>
   );
