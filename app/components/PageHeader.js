@@ -1,0 +1,8 @@
+export default function PageHeader() {
+  return (
+    <header>
+      <h1>{title}</h1>
+      <h2>{description}</h2>
+    </header>
+  );
+}
